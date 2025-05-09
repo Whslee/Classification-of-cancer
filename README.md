@@ -22,4 +22,5 @@ google drive data
 - sample_submission.csv
 - test.csv
 - train.csv
+  
 https://drive.google.com/drive/folders/1QnSLuYhhMt0exeMJzZ0dpIMZeAUYjBhD?usp=share_link
